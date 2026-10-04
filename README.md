@@ -3,9 +3,9 @@
  
 ## What I work on
  
-- **Stock Valuator**: a web app that values a stock with seven models
-  (Fair Value P/E, Graham Number, PEG, FCF Yield, ROIC, Gordon Growth, DCF)
-  and combines them into a single BUY / HOLD / SELL score
+**Stock Valuator**: a web app that values a stock with seven models
+(Fair Value P/E, Graham Number, PEG, FCF Yield, ROIC, Gordon Growth, DCF)
+and combines them into a single BUY / HOLD / SELL score
  
 ## GitHub stats
  
